@@ -24,7 +24,8 @@ function Projects() {
               imgPath={cookify}
               isBlog={false}
               title="Cookify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Cookify is a dynamic web application focused on food sharing.
+              "
               ghLink="https://github.com/DralnMatthew/Cookify"
               demoLink="https://cookify-dralnmatthew.netlify.app/"
             />
@@ -35,7 +36,7 @@ function Projects() {
               imgPath={snake}
               isBlog={false}
               title="Snake Game"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="Snake is a Multiplayer Online Battle Arena (MOBA) game designed to offer user authentication and score-based player combat on the server."
               ghLink="https://github.com/DralnMatthew/Snake"
               demoLink="http://35.228.85.55/"
             />
@@ -46,7 +47,7 @@ function Projects() {
               imgPath={auction}
               isBlog={false}
               title="Auction"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="Online Auction Platform"
               ghLink="https://github.com/DralnMatthew/Auction"
             />
           </Col>
@@ -56,7 +57,7 @@ function Projects() {
               imgPath={ecommerce}
               isBlog={false}
               title="Ecommerce"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="Designed and developed an e-commerce platform with session-based cart and online payment functionality."
               ghLink="https://github.com/DralnMatthew/Ecommerce"
               demoLink="https://dralnmatthew.com/"
             />
